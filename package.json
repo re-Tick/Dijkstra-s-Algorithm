@@ -1,0 +1,23 @@
+{
+  "name": "d",
+  "version": "1.0.0",
+  "main": "djikstra.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/re-Tick/Dijkstra-s-Algorithm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/re-Tick/Dijkstra-s-Algorithm/issues"
+  },
+  "homepage": "https://github.com/re-Tick/Dijkstra-s-Algorithm#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
